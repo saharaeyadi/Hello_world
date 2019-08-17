@@ -1,2 +1,4 @@
 # Hello_world
-just another repository
+hi friends,
+
+i am a developer and like cloud.
